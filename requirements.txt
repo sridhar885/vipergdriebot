@@ -1,6 +1,7 @@
 wget
 asyncio
-https://github.com/pyrogram/pyrogram/archive/asyncio.zip
+pip3 install -U pyrogram
+pip3 install -U pyrogram tgcrypto
 tgcrypto
 oauth2client
 psycopg2-binary
